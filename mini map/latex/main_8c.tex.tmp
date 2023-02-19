@@ -1,0 +1,34 @@
+\hypertarget{main_8c}{}\section{main.\+c File Reference}
+\label{main_8c}\index{main.\+c@{main.\+c}}
+
+
+Testing Program.  
+
+
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+{\ttfamily \#include $<$S\+D\+L/\+S\+D\+L.\+h$>$}\newline
+{\ttfamily \#include $<$S\+D\+L/\+S\+D\+L\+\_\+image.\+h$>$}\newline
+{\ttfamily \#include $<$S\+D\+L/\+S\+D\+L\+\_\+mixer.\+h$>$}\newline
+Include dependency graph for main.\+c\+:
+% FIG 0
+\subsection*{Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{main_8c_acdef7a1fd863a6d3770c1268cb06add3}\label{main_8c_acdef7a1fd863a6d3770c1268cb06add3}} 
+void {\bfseries main} ()
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Testing Program. 
+
+\begin{DoxyAuthor}{Author}
+wiem trifi 
+\end{DoxyAuthor}
+\begin{DoxyVersion}{Version}
+0.\+1 
+\end{DoxyVersion}
+\begin{DoxyDate}{Date}
+juin 01, 2020
+\end{DoxyDate}
+Testing program for mini map 
